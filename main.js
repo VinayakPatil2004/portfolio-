@@ -1,4 +1,4 @@
-// DOM Elements
+ // DOM Elements
 const navbar = document.querySelector('.navbar');
 const menuToggle = document.querySelector('.menu-toggle');
 const navLinks = document.querySelector('.nav-links');
